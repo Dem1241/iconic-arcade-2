@@ -5,7 +5,7 @@ Custom stuff for my Raspberry Pi 4 arcade cabinet running Batocera 39.
 ## Install / update on the arcade
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/YOUR_USER/iconic-arcade/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/Dem1241/iconic-arcade-2/main/install.sh | bash
 ```
 
 ## What's in here

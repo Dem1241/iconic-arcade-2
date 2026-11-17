@@ -1,9 +1,9 @@
 #!/bin/bash
 # Run on the arcade to install or update everything from GitHub:
-#   curl -fsSL https://raw.githubusercontent.com/YOUR_USER/iconic-arcade/main/install.sh | bash
+#   curl -fsSL https://raw.githubusercontent.com/Dem1241/iconic-arcade-2/main/install.sh | bash
 set -e
 
-REPO="YOUR_USER/iconic-arcade"
+REPO="Dem1241/iconic-arcade-2"
 BRANCH="main"
 TMP="$(mktemp -d)"
 
